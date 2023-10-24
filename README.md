@@ -1,7 +1,5 @@
 # 자바
 
-[![Join the chat at https://gitter.im/smu405/j](https://badges.gitter.im/smu405/j.svg)](https://gitter.im/smu405/j?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## 목적
 
 * 수백줄 규모의 객체지향 자바 프로그래밍을 할 수 있다.
@@ -33,9 +31,7 @@
 - 7주 게임 Tetris
 - 14주 GUI
 
-# 시험
-
----
+# 목차
 1. Hello Java
 1.1 학습내용
 1.1.1 강의 목표
